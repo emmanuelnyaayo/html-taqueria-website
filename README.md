@@ -1,4 +1,4 @@
-# Scoville Taqueria HTML website
+# Scoville Taqueria Website
 
 ## Description
 
